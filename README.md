@@ -76,10 +76,10 @@ EmployeesDb/
 
 
 ## Contributor
-- [Hiwot Molalign](https://github.com/lionwayt/employeeDb) - Developer
+- [Hiwot Molalign](https://github.com/lionwayt/employeeDb.git) - Developer
 
 
 ## Contact
 For any queries, please reach out to:
 - **Email:** hiwotmolalign2@gmail.com
-- **GitHub:** [GitHub Repository]([https://github.com/lionwayt])
+- **GitHub:** [GitHub Repository]([https://github.com/lionwayt.git])
