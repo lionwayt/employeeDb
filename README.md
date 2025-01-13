@@ -28,8 +28,8 @@ The HR Dashboard is a comprehensive web-based application designed to streamline
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/hr-dashboard.git
-   cd hr-dashboard
+   git clone https://github.com/lionwayt/employeeDb.git
+   cd EmployeesDb
    ```
 
 2. Set up the backend:
@@ -58,11 +58,9 @@ The HR Dashboard is a comprehensive web-based application designed to streamline
 
 ## Project Structure
 ```
-HR-Dashboard/
+EmployeesDb/
 ├── backend/            # Node.js backend
 ├── frontend/           # Vite + React frontend
-├── docs/               # Documentation and diagrams
-├── tests/              # Test cases
 └── README.md           # Project documentation
 ```
 
@@ -75,14 +73,13 @@ HR-Dashboard/
 - Integrate with third-party payroll systems.
 - Build a mobile-friendly version.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-## Contributors
-- [Your Name](https://github.com/yourusername) - Project Lead
-- [Contributor Name](https://github.com/contributorusername) - Developer
+
+## Contributor
+- [Hiwot Molalign](https://github.com/lionwayt) - Developer
+
 
 ## Contact
 For any queries, please reach out to:
-- **Email:** yourname@example.com
-- **GitHub:** [GitHub Repository](https://github.com/yourusername/hr-dashboard)
+- **Email:** hiwotmolalign2@gmail.com
+- **GitHub:** [GitHub Repository](https://github.com/lionwayt/hr-dashboard)
